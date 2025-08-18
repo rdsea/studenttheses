@@ -1,9 +1,9 @@
 # Bachelor and Master Thesis Topics in AaltoSEA
 >TBD
 
-## AaltoSEA Thesis principles and procedure 
+## AaltoSEA Thesis Principles and Procedure
 
-### Principles for Bachelor These
+### Principles for Bachelor Theses
 
 - Each topic is big enough to allow 2-3 students carried out the thesis work
 - The topic could be last for a year 
@@ -26,7 +26,7 @@ A bachelor thesis is 10 credits = 270 hours, thus we suggest:
 
 Thus we ask students to outline how many hours they plan per week for us to make two checkpoints: scoping and initial sources. Without passing that two checkpoints, the change the thesis fails is quite high.
 
- 
-## List of Available topics
+
+## List of Available Topics for Bachelor Theses
 
 ### Fall, 2025
