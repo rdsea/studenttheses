@@ -93,10 +93,35 @@ As edge-cloud computing becomes increasingly prevalent, securing communication a
 - [1] Stafford, V. "Zero trust architecture." NIST special publication 800 (2020): 207. 
 - [2] Syed, Naeem Firdous, et al. "Zero trust architecture (ZTA): A comprehensive survey." IEEE Access 10 (2022): 57143-57179. 
 
->**Prerequisite**>: Basic knowledge of network security and cloud computing 
+>**Prerequisite**: Basic knowledge of network security and cloud computing 
 
 >**Advisor/Topic presented by**: Hong-Tri Nguyen (hong-tri.Nguyen@aalto.fi) 
 
 >**Language**: English 
 
 >**Topic Area**: Software Systems and Technologies
+
+##### Topics: a student can choose to do a board topic (the title topic) or more precise from sub-topics
+
+- **A Survey of Observability Frameworks for LLMs**: Compare existing frameworks (e.g., LangSmith, Arize, DeepEval, OpenTelemetry-based setups) in terms of their coverage of tracing, evaluation, fairness, and robustness.
+
+   - **Comparing Safety-Oriented vs. Performance-Oriented Observability Frameworks**: Explore differences in frameworks that prioritize security/safety versus those focused on system performance and cost efficiency.
+
+   - **Human-in-the-Loop Observability: Challenges and Approach**; Review how observability frameworks account for human feedback, trust, and transparency in LLM systems.
+
+>**Background**: 
+
+Despite rapid advances in large language models (LLMs), current observability frameworks remain limited in their ability to provide rigorous, transparent, and trustworthy evaluation. The complexity of heterogeneous data and interactions complicates traceability, benchmarking, and fairness assessment, while existing tools often prioritize either safety or performance without adequately balancing both. Moreover, mechanisms for integrating human oversight into observability are underdeveloped, leaving gaps in accountability, trust, and transparency. Without addressing these shortcomings, LLM-integrated systems risk propagating errors, biases, and failures that undermine their reliability and practical utility.  
+
+>**Some references**: 
+
+- [TrustLLM: Trustworthiness in Large Language Models ](https://arxiv.org/abs/2401.05561)
+- [Design Principles and Guidelines for LLM Observability: Insights from Developers ](https://dl.acm.org/doi/full/10.1145/3706599.3719914)
+- [A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities](https://dl.acm.org/doi/10.1145/3665926)
+>**Prerequisite**: Basic Knowledge about AI
+
+>**Advisor/Topic presented by**: Korawit Rupanya (korawit.rupanya@aalto.fi) 
+
+>**Language**: English 
+
+>**Topic Area**: Software and Service Engineering
