@@ -28,6 +28,7 @@ Thus we ask students to outline how many hours they plan per week for us to make
 
 
 ## List of Available Topics for Bachelor Theses
+**Once selecting the topic, the students have to join the first meeting on 11 Sep 2025 (at 11am, B322 CS building)**
 
 ### Bachelor Thesis Meetings
 
@@ -63,6 +64,8 @@ The work is to review/survey QoA metrics, techniques and tools. Within this topi
 
 >**Language**: English 
 
+>**Topic Area**: Big Data and Large-scale Computing
+
 #### Topic: Opportunistic Data Operation Platforms 
  
 >**Background**: 
@@ -77,3 +80,23 @@ The work is to review/survey QoA metrics, techniques and tools. Within this topi
 
 >**Advisor/Topic presented by**: Hong-Linh Truong 
 
+>**Topic Area**: Big Data and Large-scale Computing
+
+##### Topic: Zero-Trust Networks for Edge-Cloud Computing 
+
+>**Background**: 
+
+As edge-cloud computing becomes increasingly prevalent, securing communication and operations across dynamic and distributed environments is critical. Traditional perimeter-based security models fall short in addressing the unique challenges of edge-cloud systems, such as distributed resources, scalability, and low-latency requirements. Zero-trust architecture, operating on the principle of "never trust, always verify," continuously validates every device, user, and application within the network to minimize security risks from both internal and external threats. Theses focus on exploring the advantages and disadvantages of zero-trust networks in edge-cloud computing, emphasizing best practices to secure data and communication channels, authenticate and authorize entities, and monitor threats in real time. 
+
+>**Some references**: 
+
+- [1] Stafford, V. "Zero trust architecture." NIST special publication 800 (2020): 207. 
+- [2] Syed, Naeem Firdous, et al. "Zero trust architecture (ZTA): A comprehensive survey." IEEE Access 10 (2022): 57143-57179. 
+
+>**Prerequisite**>: Basic knowledge of network security and cloud computing 
+
+>**Advisor/Topic presented by**: Hong-Tri Nguyen (hong-tri.Nguyen@aalto.fi) 
+
+>**Language**: English 
+
+>**Topic Area**: Software Systems and Technologies
