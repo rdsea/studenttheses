@@ -28,7 +28,7 @@ Thus we ask students to outline how many hours they plan per week for us to make
 
 
 ## List of Available Topics for Bachelor Theses
-**If agree on the topic, the students have to join the first weekly meeting starting on 11 Sep 2025 (at 11am, B322 – every Thursday)**
+**Once selecting the topic, the students have to join the first meeting on 11 Sep 2025 (at 11am, B322 CS building)**
 
 ### Fall, 2025
 
