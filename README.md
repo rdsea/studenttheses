@@ -119,7 +119,7 @@ a student can choose to do a board topic (the title topic) or more precise from 
 - [TrustLLM: Trustworthiness in Large Language Models ](https://arxiv.org/abs/2401.05561)
 - [Design Principles and Guidelines for LLM Observability: Insights from Developers ](https://dl.acm.org/doi/full/10.1145/3706599.3719914)
 - [A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities](https://dl.acm.org/doi/10.1145/3665926)
->**Prerequisite**: Basic Knowledge about AI
+>**Prerequisite**: basic skills w.r.t. software and service engineering or AI/ML systems
 
 >**Advisor/Topic presented by**: Korawit Rupanya (korawit.rupanya@aalto.fi) 
 
