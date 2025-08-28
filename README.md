@@ -137,7 +137,7 @@ The topic will review:
 - Existing research on integrating quantum computing with distributed systems.
 - Interaction models between edge clusters, cloud/HPC systems, and quantum backends.
 
-Students will focus only on the review aspect, producing classification tables, taxonomies, and conceptual models summarising current research directions and challenges in quantum–edge integration.  
+Students will focus only on the review aspect, producing classification tables, taxonomies, and conceptual models summarising current research directions and challenges in quantum–HPC integration.  
 
 > **Some references**:  
 - [https://arxiv.org/abs/2508.04974](https://arxiv.org/abs/2508.04974)
