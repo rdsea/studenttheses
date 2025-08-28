@@ -101,17 +101,18 @@ As edge-cloud computing becomes increasingly prevalent, securing communication a
 
 >**Topic Area**: Software Systems and Technologies
 
-##### Topics: a student can choose to do a board topic (the title topic) or more precise from sub-topics
+##### Topics: A Survey of Observability Frameworks for LLMs
 
+>**Background**: 
+
+Despite rapid advances in large language models (LLMs), current observability frameworks remain limited in their ability to provide rigorous, transparent, and trustworthy evaluation. The complexity of heterogeneous data and interactions complicates traceability, benchmarking, and fairness assessment, while existing tools often prioritize either safety or performance without adequately balancing both. Moreover, mechanisms for integrating human oversight into observability are underdeveloped, leaving gaps in accountability, trust, and transparency. Without addressing these shortcomings, LLM-integrated systems risk propagating errors, biases, and failures that undermine their reliability and practical utility.
+
+a student can choose to do a board topic (the title topic) or more precise from sub-topics for examples:
 - **A Survey of Observability Frameworks for LLMs**: Compare existing frameworks (e.g., LangSmith, Arize, DeepEval, OpenTelemetry-based setups) in terms of their coverage of tracing, evaluation, fairness, and robustness.
 
    - **Comparing Safety-Oriented vs. Performance-Oriented Observability Frameworks**: Explore differences in frameworks that prioritize security/safety versus those focused on system performance and cost efficiency.
 
    - **Human-in-the-Loop Observability: Challenges and Approach**; Review how observability frameworks account for human feedback, trust, and transparency in LLM systems.
-
->**Background**: 
-
-Despite rapid advances in large language models (LLMs), current observability frameworks remain limited in their ability to provide rigorous, transparent, and trustworthy evaluation. The complexity of heterogeneous data and interactions complicates traceability, benchmarking, and fairness assessment, while existing tools often prioritize either safety or performance without adequately balancing both. Moreover, mechanisms for integrating human oversight into observability are underdeveloped, leaving gaps in accountability, trust, and transparency. Without addressing these shortcomings, LLM-integrated systems risk propagating errors, biases, and failures that undermine their reliability and practical utility.  
 
 >**Some references**: 
 
