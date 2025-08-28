@@ -33,8 +33,9 @@ Thus we ask students to outline how many hours they plan per week for us to make
 ### Bachelor Thesis Meetings
 
 **All students who take the thesis topics from AaltoSEA will have to join regular thesis meetings**
+
 > Thu, 11am-12pm, Konemiehentie 2, B322
-> The first meeting: 08.09.2025. Then we will design the follow ups.
+> The first meeting: 11.09.2025. Then we will design the follow ups.
 
 ### Fall, 2025
 
@@ -60,7 +61,7 @@ The work is to review/survey QoA metrics, techniques and tools. Within this topi
 
 >**Prerequisite:** Programming models, system software, performance tool, observability, operating systems, cloud computing, AI infrastructures 
 
->**Advisor/Topic presented by**: Hong-Linh Truong 
+>**Advisor/Topic presented by**: Hong-Linh Truong (https://users.aalto.fi/~truongh4/)
 
 >**Language**: English 
 
@@ -78,11 +79,11 @@ The work is to review/survey QoA metrics, techniques and tools. Within this topi
   
 >**Prerequisite**: operating systems, virtualization, programming models, computing architecture, HPC, edge cloud computing 
 
->**Advisor/Topic presented by**: Hong-Linh Truong 
+>**Advisor/Topic presented by**: Hong-Linh Truong (https://users.aalto.fi/~truongh4/)
 
 >**Topic Area**: Big Data and Large-scale Computing
 
-##### Topic: Zero-Trust Networks for Edge-Cloud Computing 
+#### Topic: Zero-Trust Networks for Edge-Cloud Computing 
 
 >**Background**: 
 
@@ -101,7 +102,7 @@ As edge-cloud computing becomes increasingly prevalent, securing communication a
 
 >**Topic Area**: Software Systems and Technologies
 
-##### Topics: A Survey of Observability Frameworks for LLMs
+#### Topics: A Survey of Observability Frameworks for LLMs
 
 >**Background**: 
 
@@ -127,7 +128,7 @@ a student can choose to do a board topic (the title topic) or more precise from 
 
 >**Topic Area**: Software and Service Engineering
 
-### Topic: Systematic Review of Quantum Computing Integration with High-Performance Computing Systems
+#### Topic: Systematic Review of Quantum Computing Integration with High-Performance Computing Systems
 
 > **Background**:  
 
