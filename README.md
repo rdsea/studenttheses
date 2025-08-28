@@ -126,3 +126,29 @@ a student can choose to do a board topic (the title topic) or more precise from 
 >**Language**: English 
 
 >**Topic Area**: Software and Service Engineering
+
+### Topic: Systematic Review of Quantum Computing Integration with High-Performance Computing Systems
+
+> **Background**:  
+
+With the rise of distributed systems and edge computing, computational tasks are increasingly being distributed across clusters of edge devices to reduce latency, improve scalability, and bring processing closer to data sources. In parallel, quantum computing has emerged as a disruptive technology for solving problems in optimisation, machine learning, and cryptography. Recently, researchers have begun exploring how quantum algorithms could be integrated with distributed systems, leveraging clusters of heterogeneous devices for hybrid classical–quantum computation.  
+
+The topic will review:
+- Existing research on integrating quantum computing with distributed systems.
+- Interaction models between edge clusters, cloud/HPC systems, and quantum backends.
+
+Students will focus only on the review aspect, producing classification tables, taxonomies, and conceptual models summarising current research directions and challenges in quantum–edge integration.  
+
+> **Some references**:  
+- [https://arxiv.org/abs/2508.04974](https://arxiv.org/abs/2508.04974)
+- [https://arxiv.org/abs/2503.04905](https://arxiv.org/abs/2503.04905) 
+- [https://ieeexplore.ieee.org/document/10989577](https://ieeexplore.ieee.org/document/10989577) 
+- [https://dl.acm.org/doi/full/10.1145/3743149](https://dl.acm.org/doi/full/10.1145/3743149)  
+
+> **Prerequisite**: Basic understanding of quantum computing concepts, basic understanding of HPC.  
+
+> **Advisor/Topic presented by**: Debayan Bhattacharya  (debayan.bhattacharya@aalto.fi)
+
+> **Language**: English  
+
+> **Topic Area**: Software and Service Engineering 
