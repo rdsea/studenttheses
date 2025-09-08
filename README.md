@@ -5,20 +5,21 @@
 
 ### Principles for Bachelor Theses
 
-- We define each topic in a way that it is big enough to allow 2-3 students carried out the thesis work. Usually a topic is defined in a subarea, which is our thesis focus for the current academic year. 
-- Within a topic, individuals can do a specific threat of work, each topic will be advised by an advisor and mostly aligned with the advisor research direction 
+- We define each topic in a way that it is big enough to allow 2-3 students carried out the thesis work. Usually a topic is defined in a subarea, which is our thesis focus for the current academic year.
+- Within a topic, individuals can do a specific threat of work, each topic will be advised by an advisor and mostly aligned with the advisor research direction. 
+- The advisors are PhD students, postdocs and Professors in AaltoSEA.
 - The head of AaltoSEA - Linh Truong - will oversee the quality but not act as the advisor for postdocs/PhD students offering the topic 
 - All students are required to meet and report the progress of the work in Aalto thesis meetings
-   - If a student does not commit to the schedule due to the lack of time or other reasons, we suggest the student should not take the topic from our group.
+   - If a student *does not commit to the schedule due to the lack of time or other reasons, we suggest the student should not take the topic from our group*.
   
-In the first meeting, we will clarify the protocol. 
+In the first meeting, we will clarify the protocol.
 
-### Quality control in writing
+### Quality control in thesis writing
 
 We suggest students to write a story like what could be found in seminar/conference/journal paper. Students should also try to do some qualitative/quantitative 
 work to have better understanding and discussion (avoid just reading the papers, although the thesis does not require design or implementation work) 
 
-The course of a bachelor thesis is 10 credits = 270 hours. Estimated around 50 hours for other assignments, the rest shall be dedicated for scoping, working on the thesis content, and writing the thesis. Thus, we suggest:
+The course of a bachelor thesis is **10 credits = 270 hours**. Estimated around **50 hours for other assignments**, the rest shall be dedicated for scoping the topic, working on the thesis content, and writing the thesis. Thus, we suggest:
 
 - 40 hours to really scope and understand the scope of the work
 - 40 hours to identify all relevant documents/sources (initial)
@@ -28,14 +29,14 @@ We ask students to outline how many hours they plan per week for us to make two 
 
 ## List of Available Topics for Bachelor Theses
 
-**Once selecting the topic, the students have to join the first meeting on 11 Sep 2025 (at 11am, B322 CS building)**
+**Once selecting the topic, the students have to join the first meeting on 18 Sep 2025 (at 11am, B322 CS building)**
 
 ### Bachelor Thesis Meetings
 
 **All students who take the thesis topics from AaltoSEA will have to join regular thesis meetings**
 
 > Thu, 11am-12pm, Konemiehentie 2, B322
-> The first meeting: 11.09.2025. Then we will design the follow ups.
+> The first meeting: 18.09.2025. Then we will design the follow ups.
 
 ### Fall, 2025
 
