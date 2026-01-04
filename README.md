@@ -1,5 +1,4 @@
 # Bachelor and Master Thesis Topics in AaltoSEA
->TBD
 
 ## AaltoSEA Thesis Principles and Procedure
 
@@ -35,10 +34,10 @@ We ask students to outline how many hours they plan per week for us to make two 
 
 **All students who take the thesis topics from AaltoSEA will have to join regular thesis meetings**
 
-> Thu, 11am-12pm, Konemiehentie 2, B322
-> The first meeting: 18.09.2025. Then we will design the follow ups.
+> <s>Thu, 11am-12pm, Konemiehentie 2, B322</s>
+> <s>The first meeting: 18.09.2025. Then we will design the follow ups.</s>
 
-### Fall, 2025
+### Spring, 2026
 
 #### Topic: Quality of Analytics for Data/AI-intensive Applications and Systems 
 
