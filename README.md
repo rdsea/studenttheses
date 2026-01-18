@@ -28,14 +28,14 @@ We ask students to outline how many hours they plan per week for us to make two 
 
 ## List of Available Topics for Bachelor Theses
 
-**Once selecting the topic, the students have to join the first meeting on 18 Sep 2025 (at 11am, B322 CS building)**
+**Once selecting the topic, the students have to join the first meeting (TBD) **
 
 ### Bachelor Thesis Meetings
 
 **All students who take the thesis topics from AaltoSEA will have to join regular thesis meetings**
 
-> <s>Thu, 11am-12pm, Konemiehentie 2, B322</s>
-> <s>The first meeting: 18.09.2025. Then we will design the follow ups.</s>
+> TBD
+> The first meeting: TBD. Then we will design the follow ups.
 
 ### Spring, 2026
 
