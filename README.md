@@ -83,6 +83,31 @@ The work is to review/survey QoA metrics, techniques and tools. Within this topi
 
 >**Topic Area**: Big Data and Large-scale Computing
 
+#### Topic: Simulation Worlds for Adversarial Testing of LLM-Based Autonomous Agents
+
+> **Background**:
+
+This topic focuses on exploring the design of an isolated simulation environment for systematic testing of LLM-based agents. The simulated environment provides a controlled "world" in which agents can interact with virtual users, services, resources, and other agents while being subjected to predefined or dynamically generated attack scenarios. The environment can be used to reproduce experiments, observe agent behavior, collect detailed execution traces, and evaluate the effectiveness of different security mechanisms.
+Particular attention is given to attack simulation and experimental evaluation of autonomous LLM agents. The thesis may investigate how agents respond to adversarial situations, how they use available tools, how attacks propagate through multiple steps, and how defensive mechanisms can detect or mitigate undesirable behavior. The simulation environment can also enable controlled comparison of different LLMs, agent architectures, prompts, security policies, and defense strategies without exposing real systems to attacks.
+The work will explore the advantages and limitations of isolated simulation as a methodology for LLM security testing, with an emphasis on reproducibility, controllability, observability, and safe experimentation.
+
+> **Some references**:
+- Shen, Xiangmin, et al. "Pentestagent: Incorporating llm agents to automated penetration testing." Proceedings of the 20th ACM Asia Conference on Computer and Communications Security. 2025.
+- Ginige, Yasod, et al. "Autopentester: An llm agent-based framework for automated pentesting." 2025 IEEE 24th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). IEEE, 2025.
+- He, Zheyuan, et al. "A Survey of LLM-Driven Penetration Testing: Taxonomy, Co-Evolution, and Open Challenges." arXiv preprint arXiv:2607.02605 (2026).
+- Happe, Andreas, and Jürgen Cito. "Benchmarking practices in LLM-driven offensive security: Testbeds, metrics, and experiment design." arXiv preprint arXiv:2504.10112 (2025).
+- Kong, He, et al. "Vulnbot: Autonomous penetration testing for a multi-agent collaborative framework." arXiv preprint arXiv:2501.13411 (2025).
+
+
+> **Prerequisite**: Basic knowledge of software security, and large language models. Familiarity with network security and/or autonomous agents is beneficial.
+
+> **Advisor/Topic presented by**: Hong-Tri Nguyen ([hong-tri.Nguyen@aalto.fi](mailto:hong-tri.Nguyen@aalto.fi))
+
+> **Language**: English
+
+> **Topic Area**: Software Systems and Technologies
+
+
 #### Topic: Zero-Trust Networks for Edge-Cloud Computing 
 
 >**Background**: 
